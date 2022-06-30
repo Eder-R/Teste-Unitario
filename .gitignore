@@ -1,0 +1,8 @@
+.coverage
+/mutmut
+/htmlcov
+/calculadora-env
+/.vscode
+/.pytest_cache
+/.my*
+/*__

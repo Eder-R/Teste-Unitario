@@ -1,0 +1,9 @@
+pytest
+pytest-cov
+mutmut
+glob2
+parso
+click
+pony
+junit-xml==1.8
+toml
